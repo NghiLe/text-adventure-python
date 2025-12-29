@@ -13,6 +13,7 @@ The goal of this project is to practice basic Python programming concepts such a
 ## What I learned
 - Writing Python programs with `if / else` conditions
 - Using loops to control game flow
+- Using functions (`def`) to break the program into smaller parts
 - Handling user input
 - Structuring a small program from start to finish
 
